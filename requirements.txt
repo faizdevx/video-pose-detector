@@ -1,4 +1,4 @@
 streamlit
-opencv-python
-mediapipe
-ultralytics
+opencv-python-headless==4.8.0.76
+mediapipe==0.10.0
+ultralytics==8.1.25
